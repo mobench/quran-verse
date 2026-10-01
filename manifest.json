@@ -1,0 +1,9 @@
+{
+	"id": "quran-verse",
+	"name": "Quran Verse",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Search and insert Quran verses with a hotkey. Offline, instant, with ornamental bracket wrapping.",
+	"author": "mobench",
+	"isDesktopOnly": false
+}
